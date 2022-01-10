@@ -1,0 +1,10 @@
+[
+  {
+    "package": "noctua",
+    "oncran": true
+  },
+  {
+    "package": "RAthena",
+    "oncran": true
+  }
+]

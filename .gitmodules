@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "noctua"]
+	path = noctua
+	url = https://github.com/dyfanjones/noctua
+	shallow = true
+	registered = true
+[submodule "RAthena"]
+	path = RAthena
+	url = https://github.com/dyfanjones/rathena
+	shallow = true
+	registered = true
