@@ -1,5 +1,13 @@
 [
   {
+    "package": "RAthena",
+    "oncran": true
+  },
+  {
+    "package": "noctua",
+    "oncran": true
+  },
+  {
     "package": "sagemaker"
   },
   {

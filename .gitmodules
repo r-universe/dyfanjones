@@ -3,6 +3,16 @@
 	url = https://github.com/dyfanjones/universe
 	shallow = true
 	branch = HEAD
+[submodule "RAthena"]
+	path = RAthena
+	url = https://github.com/DyfanJones/RAthena
+	shallow = true
+	registered = true
+[submodule "noctua"]
+	path = noctua
+	url = https://github.com/DyfanJones/noctua
+	shallow = true
+	registered = true
 [submodule "sagemaker"]
 	path = sagemaker
 	url = https://github.com/DyfanJones/sagemaker-r-sdk
