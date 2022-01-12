@@ -13,38 +13,8 @@
 	url = https://github.com/DyfanJones/noctua
 	shallow = true
 	registered = true
-[submodule "sagemaker"]
-	path = sagemaker
-	url = https://github.com/DyfanJones/sagemaker-r-sdk
-	shallow = true
-	registered = true
 [submodule "sagemaker.debugger"]
 	path = sagemaker.debugger
 	url = https://github.com/DyfanJones/sagemaker-r-debugger
-	shallow = true
-	registered = true
-[submodule "sagemaker.common"]
-	path = sagemaker.common
-	url = https://github.com/DyfanJones/sagemaker-r-common
-	shallow = true
-	registered = true
-[submodule "sagemaker.local"]
-	path = sagemaker.local
-	url = https://github.com/DyfanJones/sagemaker-r-local
-	shallow = true
-	registered = true
-[submodule "sagemaker.mlcore"]
-	path = sagemaker.mlcore
-	url = https://github.com/DyfanJones/sagemaker-r-mlcore
-	shallow = true
-	registered = true
-[submodule "sagemaker.mlframework"]
-	path = sagemaker.mlframework
-	url = https://github.com/DyfanJones/sagemaker-r-mlframework
-	shallow = true
-	registered = true
-[submodule "sagemaker.workflow"]
-	path = sagemaker.workflow
-	url = https://github.com/DyfanJones/sagemaker-r-workflow
 	shallow = true
 	registered = true
