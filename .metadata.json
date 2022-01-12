@@ -1,10 +1,23 @@
 [
   {
-    "package": "noctua",
-    "oncran": true
+    "package": "sagemaker"
   },
   {
-    "package": "RAthena",
-    "oncran": true
+    "package": "sagemaker.debugger"
+  },
+  {
+    "package": "sagemaker.common"
+  },
+  {
+    "package": "sagemaker.local"
+  },
+  {
+    "package": "sagemaker.mlcore"
+  },
+  {
+    "package": "sagemaker.mlframework"
+  },
+  {
+    "package": "sagemaker.workflow"
   }
 ]
