@@ -2,6 +2,54 @@
   {
     "package": "sagemaker.common",
     "url": "https://github.com/DyfanJones/sagemaker-r-common",
+    "via": ["sagemaker"],
+    "from": "sagemaker"
+  },
+  {
+    "package": "sagemaker.common",
+    "url": "https://github.com/DyfanJones/sagemaker-r-common",
+    "via": ["sagemaker", "sagemaker.mlcore"],
+    "from": "sagemaker"
+  },
+  {
+    "package": "sagemaker.common",
+    "url": "https://github.com/DyfanJones/sagemaker-r-common",
+    "via": ["sagemaker", "sagemaker.mlframework"],
+    "from": "sagemaker"
+  },
+  {
+    "package": "sagemaker.common",
+    "url": "https://github.com/DyfanJones/sagemaker-r-common",
+    "via": ["sagemaker", "sagemaker.mlframework", "sagemaker.mlcore"],
+    "from": "sagemaker"
+  },
+  {
+    "package": "sagemaker.common",
+    "url": "https://github.com/DyfanJones/sagemaker-r-common",
+    "via": ["sagemaker", "sagemaker.workflow"],
+    "from": "sagemaker"
+  },
+  {
+    "package": "sagemaker.common",
+    "url": "https://github.com/DyfanJones/sagemaker-r-common",
+    "via": ["sagemaker", "sagemaker.workflow", "sagemaker.mlcore"],
+    "from": "sagemaker"
+  },
+  {
+    "package": "sagemaker.common",
+    "url": "https://github.com/DyfanJones/sagemaker-r-common",
+    "via": ["sagemaker", "sagemaker.workflow", "sagemaker.mlframework"],
+    "from": "sagemaker"
+  },
+  {
+    "package": "sagemaker.common",
+    "url": "https://github.com/DyfanJones/sagemaker-r-common",
+    "via": ["sagemaker", "sagemaker.workflow", "sagemaker.mlframework", "sagemaker.mlcore"],
+    "from": "sagemaker"
+  },
+  {
+    "package": "sagemaker.common",
+    "url": "https://github.com/DyfanJones/sagemaker-r-common",
     "via": ["sagemaker.mlcore"],
     "from": "sagemaker.mlcore"
   },
@@ -40,6 +88,102 @@
     "url": "https://github.com/DyfanJones/sagemaker-r-common",
     "via": ["sagemaker.workflow", "sagemaker.mlframework", "sagemaker.mlcore"],
     "from": "sagemaker.workflow"
+  },
+  {
+    "package": "sagemaker.core",
+    "url": "https://github.com/DyfanJones/sagemaker-r-core",
+    "via": ["sagemaker"],
+    "from": "sagemaker"
+  },
+  {
+    "package": "sagemaker.core",
+    "url": "https://github.com/DyfanJones/sagemaker-r-core",
+    "via": ["sagemaker", "sagemaker.common"],
+    "from": "sagemaker"
+  },
+  {
+    "package": "sagemaker.core",
+    "url": "https://github.com/DyfanJones/sagemaker-r-core",
+    "via": ["sagemaker", "sagemaker.mlcore"],
+    "from": "sagemaker"
+  },
+  {
+    "package": "sagemaker.core",
+    "url": "https://github.com/DyfanJones/sagemaker-r-core",
+    "via": ["sagemaker", "sagemaker.mlcore", "sagemaker.common"],
+    "from": "sagemaker"
+  },
+  {
+    "package": "sagemaker.core",
+    "url": "https://github.com/DyfanJones/sagemaker-r-core",
+    "via": ["sagemaker", "sagemaker.mlframework"],
+    "from": "sagemaker"
+  },
+  {
+    "package": "sagemaker.core",
+    "url": "https://github.com/DyfanJones/sagemaker-r-core",
+    "via": ["sagemaker", "sagemaker.mlframework", "sagemaker.common"],
+    "from": "sagemaker"
+  },
+  {
+    "package": "sagemaker.core",
+    "url": "https://github.com/DyfanJones/sagemaker-r-core",
+    "via": ["sagemaker", "sagemaker.mlframework", "sagemaker.mlcore"],
+    "from": "sagemaker"
+  },
+  {
+    "package": "sagemaker.core",
+    "url": "https://github.com/DyfanJones/sagemaker-r-core",
+    "via": ["sagemaker", "sagemaker.mlframework", "sagemaker.mlcore", "sagemaker.common"],
+    "from": "sagemaker"
+  },
+  {
+    "package": "sagemaker.core",
+    "url": "https://github.com/DyfanJones/sagemaker-r-core",
+    "via": ["sagemaker", "sagemaker.workflow"],
+    "from": "sagemaker"
+  },
+  {
+    "package": "sagemaker.core",
+    "url": "https://github.com/DyfanJones/sagemaker-r-core",
+    "via": ["sagemaker", "sagemaker.workflow", "sagemaker.common"],
+    "from": "sagemaker"
+  },
+  {
+    "package": "sagemaker.core",
+    "url": "https://github.com/DyfanJones/sagemaker-r-core",
+    "via": ["sagemaker", "sagemaker.workflow", "sagemaker.mlcore"],
+    "from": "sagemaker"
+  },
+  {
+    "package": "sagemaker.core",
+    "url": "https://github.com/DyfanJones/sagemaker-r-core",
+    "via": ["sagemaker", "sagemaker.workflow", "sagemaker.mlcore", "sagemaker.common"],
+    "from": "sagemaker"
+  },
+  {
+    "package": "sagemaker.core",
+    "url": "https://github.com/DyfanJones/sagemaker-r-core",
+    "via": ["sagemaker", "sagemaker.workflow", "sagemaker.mlframework"],
+    "from": "sagemaker"
+  },
+  {
+    "package": "sagemaker.core",
+    "url": "https://github.com/DyfanJones/sagemaker-r-core",
+    "via": ["sagemaker", "sagemaker.workflow", "sagemaker.mlframework", "sagemaker.common"],
+    "from": "sagemaker"
+  },
+  {
+    "package": "sagemaker.core",
+    "url": "https://github.com/DyfanJones/sagemaker-r-core",
+    "via": ["sagemaker", "sagemaker.workflow", "sagemaker.mlframework", "sagemaker.mlcore"],
+    "from": "sagemaker"
+  },
+  {
+    "package": "sagemaker.core",
+    "url": "https://github.com/DyfanJones/sagemaker-r-core",
+    "via": ["sagemaker", "sagemaker.workflow", "sagemaker.mlframework", "sagemaker.mlcore", "sagemaker.common"],
+    "from": "sagemaker"
   },
   {
     "package": "sagemaker.core",
@@ -134,6 +278,60 @@
   {
     "package": "sagemaker.debugger",
     "url": "https://github.com/DyfanJones/sagemaker-r-debugger",
+    "via": ["sagemaker"],
+    "from": "sagemaker"
+  },
+  {
+    "package": "sagemaker.debugger",
+    "url": "https://github.com/DyfanJones/sagemaker-r-debugger",
+    "via": ["sagemaker", "sagemaker.common"],
+    "from": "sagemaker"
+  },
+  {
+    "package": "sagemaker.debugger",
+    "url": "https://github.com/DyfanJones/sagemaker-r-debugger",
+    "via": ["sagemaker", "sagemaker.mlcore", "sagemaker.common"],
+    "from": "sagemaker"
+  },
+  {
+    "package": "sagemaker.debugger",
+    "url": "https://github.com/DyfanJones/sagemaker-r-debugger",
+    "via": ["sagemaker", "sagemaker.mlframework", "sagemaker.common"],
+    "from": "sagemaker"
+  },
+  {
+    "package": "sagemaker.debugger",
+    "url": "https://github.com/DyfanJones/sagemaker-r-debugger",
+    "via": ["sagemaker", "sagemaker.mlframework", "sagemaker.mlcore", "sagemaker.common"],
+    "from": "sagemaker"
+  },
+  {
+    "package": "sagemaker.debugger",
+    "url": "https://github.com/DyfanJones/sagemaker-r-debugger",
+    "via": ["sagemaker", "sagemaker.workflow", "sagemaker.common"],
+    "from": "sagemaker"
+  },
+  {
+    "package": "sagemaker.debugger",
+    "url": "https://github.com/DyfanJones/sagemaker-r-debugger",
+    "via": ["sagemaker", "sagemaker.workflow", "sagemaker.mlcore", "sagemaker.common"],
+    "from": "sagemaker"
+  },
+  {
+    "package": "sagemaker.debugger",
+    "url": "https://github.com/DyfanJones/sagemaker-r-debugger",
+    "via": ["sagemaker", "sagemaker.workflow", "sagemaker.mlframework", "sagemaker.common"],
+    "from": "sagemaker"
+  },
+  {
+    "package": "sagemaker.debugger",
+    "url": "https://github.com/DyfanJones/sagemaker-r-debugger",
+    "via": ["sagemaker", "sagemaker.workflow", "sagemaker.mlframework", "sagemaker.mlcore", "sagemaker.common"],
+    "from": "sagemaker"
+  },
+  {
+    "package": "sagemaker.debugger",
+    "url": "https://github.com/DyfanJones/sagemaker-r-debugger",
     "via": ["sagemaker.common"],
     "from": "sagemaker.common"
   },
@@ -178,6 +376,30 @@
     "url": "https://github.com/DyfanJones/sagemaker-r-debugger",
     "via": ["sagemaker.workflow", "sagemaker.mlframework", "sagemaker.mlcore", "sagemaker.common"],
     "from": "sagemaker.workflow"
+  },
+  {
+    "package": "sagemaker.mlcore",
+    "url": "https://github.com/DyfanJones/sagemaker-r-mlcore",
+    "via": ["sagemaker"],
+    "from": "sagemaker"
+  },
+  {
+    "package": "sagemaker.mlcore",
+    "url": "https://github.com/DyfanJones/sagemaker-r-mlcore",
+    "via": ["sagemaker", "sagemaker.mlframework"],
+    "from": "sagemaker"
+  },
+  {
+    "package": "sagemaker.mlcore",
+    "url": "https://github.com/DyfanJones/sagemaker-r-mlcore",
+    "via": ["sagemaker", "sagemaker.workflow"],
+    "from": "sagemaker"
+  },
+  {
+    "package": "sagemaker.mlcore",
+    "url": "https://github.com/DyfanJones/sagemaker-r-mlcore",
+    "via": ["sagemaker", "sagemaker.workflow", "sagemaker.mlframework"],
+    "from": "sagemaker"
   },
   {
     "package": "sagemaker.mlcore",
@@ -200,7 +422,25 @@
   {
     "package": "sagemaker.mlframework",
     "url": "https://github.com/DyfanJones/sagemaker-r-mlframework",
+    "via": ["sagemaker"],
+    "from": "sagemaker"
+  },
+  {
+    "package": "sagemaker.mlframework",
+    "url": "https://github.com/DyfanJones/sagemaker-r-mlframework",
+    "via": ["sagemaker", "sagemaker.workflow"],
+    "from": "sagemaker"
+  },
+  {
+    "package": "sagemaker.mlframework",
+    "url": "https://github.com/DyfanJones/sagemaker-r-mlframework",
     "via": ["sagemaker.workflow"],
     "from": "sagemaker.workflow"
+  },
+  {
+    "package": "sagemaker.workflow",
+    "url": "https://github.com/DyfanJones/sagemaker-r-workflow",
+    "via": ["sagemaker"],
+    "from": "sagemaker"
   }
 ]
