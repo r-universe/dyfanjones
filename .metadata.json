@@ -9,5 +9,20 @@
   },
   {
     "package": "sagemaker.debugger"
+  },
+  {
+    "package": "sagemaker.core"
+  },
+  {
+    "package": "sagemaker.common"
+  },
+  {
+    "package": "sagemaker.mlcore"
+  },
+  {
+    "package": "sagemaker.mlframework"
+  },
+  {
+    "package": "sagemaker.workflow"
   }
 ]
