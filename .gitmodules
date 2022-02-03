@@ -43,3 +43,8 @@
 	url = https://github.com/DyfanJones/sagemaker-r-workflow
 	shallow = true
 	registered = true
+[submodule "sagemaker"]
+	path = sagemaker
+	url = https://github.com/DyfanJones/sagemaker-r-sdk
+	shallow = true
+	registered = true
