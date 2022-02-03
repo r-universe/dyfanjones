@@ -1,0 +1,14 @@
+[
+  {
+    "package": "sagemaker.core",
+    "url": "https://github.com/DyfanJones/sagemaker-r-core",
+    "via": ["sagemaker.common"],
+    "from": "sagemaker.common"
+  },
+  {
+    "package": "sagemaker.debugger",
+    "url": "https://github.com/DyfanJones/sagemaker-r-debugger",
+    "via": ["sagemaker.common"],
+    "from": "sagemaker.common"
+  }
+]
