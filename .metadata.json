@@ -27,5 +27,8 @@
   },
   {
     "package": "sagemaker"
+  },
+  {
+    "package": "s3fs"
   }
 ]

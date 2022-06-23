@@ -48,3 +48,8 @@
 	url = https://github.com/DyfanJones/sagemaker-r-sdk
 	shallow = true
 	registered = true
+[submodule "s3fs"]
+	path = s3fs
+	url = https://github.com/DyfanJones/s3fs
+	shallow = true
+	registered = true
