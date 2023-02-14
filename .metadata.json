@@ -29,6 +29,7 @@
     "package": "sagemaker"
   },
   {
-    "package": "s3fs"
+    "package": "s3fs",
+    "oncran": false
   }
 ]
