@@ -53,3 +53,8 @@
 	url = https://github.com/DyfanJones/s3fs
 	shallow = true
 	registered = true
+[submodule "smdocker"]
+	path = smdocker
+	url = https://github.com/DyfanJones/sm-docker
+	shallow = true
+	registered = true

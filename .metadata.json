@@ -30,6 +30,9 @@
   },
   {
     "package": "s3fs",
-    "oncran": false
+    "oncran": true
+  },
+  {
+    "package": "smdocker"
   }
 ]
