@@ -33,6 +33,7 @@
     "oncran": true
   },
   {
-    "package": "smdocker"
+    "package": "smdocker",
+    "oncran": false
   }
 ]
