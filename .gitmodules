@@ -1,60 +1,37 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/dyfanjones/universe
-	shallow = true
 	branch = HEAD
 [submodule "RAthena"]
 	path = RAthena
 	url = https://github.com/DyfanJones/RAthena
-	shallow = true
-	registered = true
 [submodule "noctua"]
 	path = noctua
 	url = https://github.com/DyfanJones/noctua
-	shallow = true
-	registered = true
 [submodule "sagemaker.debugger"]
 	path = sagemaker.debugger
 	url = https://github.com/DyfanJones/sagemaker-r-debugger
-	shallow = true
-	registered = true
 [submodule "sagemaker.core"]
 	path = sagemaker.core
 	url = https://github.com/DyfanJones/sagemaker-r-core
-	shallow = true
-	registered = true
 [submodule "sagemaker.common"]
 	path = sagemaker.common
 	url = https://github.com/DyfanJones/sagemaker-r-common
-	shallow = true
-	registered = true
 [submodule "sagemaker.mlcore"]
 	path = sagemaker.mlcore
 	url = https://github.com/DyfanJones/sagemaker-r-mlcore
-	shallow = true
-	registered = true
 [submodule "sagemaker.mlframework"]
 	path = sagemaker.mlframework
 	url = https://github.com/DyfanJones/sagemaker-r-mlframework
-	shallow = true
-	registered = true
 [submodule "sagemaker.workflow"]
 	path = sagemaker.workflow
 	url = https://github.com/DyfanJones/sagemaker-r-workflow
-	shallow = true
-	registered = true
 [submodule "sagemaker"]
 	path = sagemaker
 	url = https://github.com/DyfanJones/sagemaker-r-sdk
-	shallow = true
-	registered = true
 [submodule "s3fs"]
 	path = s3fs
 	url = https://github.com/DyfanJones/s3fs
-	shallow = true
-	registered = true
 [submodule "smdocker"]
 	path = smdocker
 	url = https://github.com/DyfanJones/sm-docker
-	shallow = true
-	registered = true
