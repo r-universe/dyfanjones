@@ -8,15 +8,21 @@
 [submodule "noctua"]
 	path = noctua
 	url = https://github.com/DyfanJones/noctua
-[submodule "sagemaker.debugger"]
-	path = sagemaker.debugger
-	url = https://github.com/DyfanJones/sagemaker-r-debugger
-[submodule "sagemaker.core"]
-	path = sagemaker.core
-	url = https://github.com/DyfanJones/sagemaker-r-core
+[submodule "s3fs"]
+	path = s3fs
+	url = https://github.com/DyfanJones/s3fs
+[submodule "sagemaker"]
+	path = sagemaker
+	url = https://github.com/DyfanJones/sagemaker-r-sdk
 [submodule "sagemaker.common"]
 	path = sagemaker.common
 	url = https://github.com/DyfanJones/sagemaker-r-common
+[submodule "sagemaker.core"]
+	path = sagemaker.core
+	url = https://github.com/DyfanJones/sagemaker-r-core
+[submodule "sagemaker.debugger"]
+	path = sagemaker.debugger
+	url = https://github.com/DyfanJones/sagemaker-r-debugger
 [submodule "sagemaker.mlcore"]
 	path = sagemaker.mlcore
 	url = https://github.com/DyfanJones/sagemaker-r-mlcore
@@ -26,12 +32,6 @@
 [submodule "sagemaker.workflow"]
 	path = sagemaker.workflow
 	url = https://github.com/DyfanJones/sagemaker-r-workflow
-[submodule "sagemaker"]
-	path = sagemaker
-	url = https://github.com/DyfanJones/sagemaker-r-sdk
-[submodule "s3fs"]
-	path = s3fs
-	url = https://github.com/DyfanJones/s3fs
 [submodule "smdocker"]
 	path = smdocker
 	url = https://github.com/DyfanJones/sm-docker
