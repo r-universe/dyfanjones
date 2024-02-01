@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/dyfanjones/universe
+	url = https://github.com/dyfanjones/dyfanjones.r-universe.dev
 	branch = HEAD
 [submodule "RAthena"]
 	path = RAthena
