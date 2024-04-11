@@ -5,6 +5,9 @@
 [submodule "RAthena"]
 	path = RAthena
 	url = https://github.com/DyfanJones/RAthena
+[submodule "heck"]
+	path = heck
+	url = https://github.com/DyfanJones/heck
 [submodule "noctua"]
 	path = noctua
 	url = https://github.com/DyfanJones/noctua
