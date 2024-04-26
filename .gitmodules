@@ -38,3 +38,6 @@
 [submodule "smdocker"]
 	path = smdocker
 	url = https://github.com/DyfanJones/sm-docker
+[submodule "weburl"]
+	path = weburl
+	url = https://github.com/DyfanJones/weburl
