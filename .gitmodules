@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/dyfanjones/dyfanjones.r-universe.dev
 	branch = HEAD
+[submodule "ConfigINI"]
+	path = ConfigINI
+	url = https://github.com/DyfanJones/ConfigINI
 [submodule "RAthena"]
 	path = RAthena
 	url = https://github.com/DyfanJones/RAthena
