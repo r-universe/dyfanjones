@@ -44,6 +44,9 @@
 [submodule "smdocker"]
 	path = smdocker
 	url = https://github.com/DyfanJones/sm-docker
+[submodule "urlparse"]
+	path = urlparse
+	url = https://github.com/DyfanJones/urlparse
 [submodule "weburl"]
 	path = weburl
 	url = https://github.com/DyfanJones/weburl
