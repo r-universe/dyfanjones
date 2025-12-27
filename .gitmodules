@@ -14,6 +14,9 @@
 [submodule "inih"]
 	path = inih
 	url = https://github.com/DyfanJones/inih
+[submodule "llmjson"]
+	path = llmjson
+	url = https://github.com/DyfanJones/llmjson
 [submodule "noctua"]
 	path = noctua
 	url = https://github.com/DyfanJones/noctua
