@@ -47,6 +47,9 @@
 [submodule "smdocker"]
 	path = smdocker
 	url = https://github.com/DyfanJones/sm-docker
+[submodule "toonfmt"]
+	path = toonfmt
+	url = https://github.com/DyfanJones/toonfmt
 [submodule "urlparse"]
 	path = urlparse
 	url = https://github.com/DyfanJones/urlparse
