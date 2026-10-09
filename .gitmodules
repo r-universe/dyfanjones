@@ -8,6 +8,9 @@
 [submodule "RAthena"]
 	path = RAthena
 	url = https://github.com/DyfanJones/RAthena
+[submodule "fastjmespath"]
+	path = fastjmespath
+	url = https://github.com/DyfanJones/fastjmespath
 [submodule "heck"]
 	path = heck
 	url = https://github.com/DyfanJones/heck
