@@ -14,9 +14,9 @@
 [submodule "fastjmespath"]
 	path = fastjmespath
 	url = https://github.com/DyfanJones/fastjmespath
-[submodule "garnish"]
-	path = garnish
-	url = https://github.com/DyfanJones/garnish
+[submodule "fnware"]
+	path = fnware
+	url = https://github.com/DyfanJones/fnware
 [submodule "heck"]
 	path = heck
 	url = https://github.com/DyfanJones/heck
